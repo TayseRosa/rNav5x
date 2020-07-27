@@ -6,7 +6,9 @@ import MainStack from './src/navigators/MainStack';
 function App() {
   return (
     <NavigationContainer>
+
       <MainStack />
+      
     </NavigationContainer>
   );
 }
